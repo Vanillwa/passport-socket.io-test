@@ -1,0 +1,10 @@
+.table {
+  border-top: 1px solid #444;
+}
+th {
+  text-align: center !important;
+}
+td {
+  text-align: center;
+  align-content: center;
+}

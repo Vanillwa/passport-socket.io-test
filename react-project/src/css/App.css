@@ -1,0 +1,13 @@
+#root > nav {
+  border-bottom: 1px solid #444;
+}
+
+#root > div.container {
+  max-width: 1000px;
+  height: 100%;
+  margin: 0 auto;
+  padding-top: 57px;
+  background-color: #222;
+  border-left: 1px solid #444;
+  border-right: 1px solid #444;
+}
